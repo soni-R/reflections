@@ -30,7 +30,11 @@ organized? How would branches help?
 	Branching helps to avoid messing up the code, in turn our projects history will be organised.
 
 
-How do the diagrams help you visualize the branch structure?
+5.How do the diagrams help you visualize the branch structure?
+
+	Diagrams helps us to understand our project branches and commits well, as diagram shows the branch
+	structure and commits that fall under them. It will help us to find the specific changes(commits).
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
