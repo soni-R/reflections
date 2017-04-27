@@ -1,0 +1,66 @@
+1.How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+
+	Comparing two files using commands like git diff or FC will show us only differences,
+ 	which will help us to see the bugs easily. Otherwise its a lot more time consuming
+ 	process to manually compare two files.
+
+
+2.How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+
+	Having access to history of a files is helpful, as each change in a file is very important,
+	and it makes me aware of the changes we made for every version, that helps to find bugs,
+	also we can restore the previous version of code if something went wrong, and it also helps
+	to keep track of how the code has modified in a step by step process to add new features in
+ 	every version.
+
+
+3.What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+
+	Manual saving gives us control over the code as it whould allow us to save when we want to, 
+	also we can save the changes by giving appropriate name to the change, by looking at the name 
+	of the change(commit) we can guess what has modified, which will help us to fix the bugs easily.
+ 	Auto saving helps in case we forgets to save. But auto saving doesnot have the control, so it
+	gets messier while commiting and comparing.  
+    
+
+4.Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+
+	A project contains several files, and they are interrelated, sometimes one logic change involves
+	more than one file, so saving all files at one commit saves the changes we have done in 
+	diffferent files at one go, without having us to save files separately.
+
+
+5.How can you use the commands git log and git diff to view the history of files?
+
+
+	git log - Shows us all the commits we have done and shows the unique id for every specific
+		  commit with commit messages.
+		  
+	git diff - Helps to find out the changes between two commit ids.
+
+
+6.How might using version control make you more confident to make changes that
+could break something?
+
+
+	With the help of version control we can keep track of what we have updated in the code using
+	commit ids, also we can even check for bugs, otherwise it whould have been a tedious task to
+	find what went wrong or what changes happened in our code to find errors, maintaining versions
+	makes it easy to handle code and we will not have the fear of losing code while we make changes.
+	if something went wrong in our code, then still we can restore the previous version files and
+	start working again.
+
+
+7.Now that you have your workspace set up, what do you want to try using Git for?
+
+
+	I would like to use git to keep track of files of my projects.
