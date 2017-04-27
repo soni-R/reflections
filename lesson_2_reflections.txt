@@ -36,8 +36,14 @@ organized? How would branches help?
 	structure and commits that fall under them. It will help us to find the specific changes(commits).
 
 
-What is the result of merging two branches together? Why do we represent it in
+6.What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	Merging two branches together results in one single master branch with the changes specified in branches.
+	The diagram shows the branches and the respective commits that fall under the specific branch and how they  
+	are merged. If we run the command git log after the merge, this will show all commits based on the time
+	they have created.
+
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually
