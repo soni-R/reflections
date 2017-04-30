@@ -4,7 +4,7 @@ was introduced?
 
 	Comparing two files using commands like git diff or FC will show us only differences,
  	which will help us to see the bugs easily. Otherwise its a lot more time consuming
- 	process to manually compare two files.
+ 	process to manually compare two files.....
 
 
 2.How could having easy access to the entire history of a file make you a more
