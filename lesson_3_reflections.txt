@@ -13,7 +13,6 @@ automatically stay up-to-date with your remote repository?
 	changes of remote repository  may create bugs or conflicts which mess up the new feature code, that is
 	why it is better to pull the changes manually after completing the feature or when we want it to update
 	rather than auto update.
-	
 
 3.Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
@@ -32,16 +31,21 @@ use one instead of another?
 		original repo from where we have forked, unless the author gives us collaboration option.
 
 
-
 4.What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
 	we can work offline without the internet access if we have last known state of the remote stored locally.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+5.How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+	To collaborate without using git or github, I might use Dropbox or Google docs or just email the files,
+	which is very tedious to maintain. But these works better only for small projects, harder to handle the
+	large projects which involve multiple files, also it gets harder to save the history of files. 
+	The easiest thing without git or github whould be we do not have to learn git commands, but github is a
+	collaboration place for software professionals to learn and to contribute from the open source code. So
+	it is better to learn and use github which will be useful for projects in long run.
+	So now I cannot think of anything without git for my projects because it is so helpful for version control. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
