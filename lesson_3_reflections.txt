@@ -30,7 +30,6 @@ use one instead of another?
 		After forking, we can clone the repo to our own machine but changes we make won't affect to the
 		original repo from where we have forked, unless the author gives us collaboration option.
 
-
 4.What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
@@ -42,7 +41,7 @@ and what would be harder?
 	To collaborate without using git or github, I might use Dropbox or Google docs or just email the files,
 	which is very tedious to maintain. But these works better only for small projects, harder to handle the
 	large projects which involve multiple files, also it gets harder to save the history of files. 
-	The easiest thing without git or github whould be we do not have to learn git commands, but github is a
+	The easiest thing without git or github would be we do not have to learn git commands, but github is a
 	collaboration place for software professionals to learn and to contribute from the open source code. So
 	it is better to learn and use github which will be useful for projects in long run.
 	So now I cannot think of anything without git for my projects because it is so helpful for version control. 
@@ -50,4 +49,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+	I want to create separate branch when developing a different feature, because it does not mess up my
+	master branch. and when collaborating with group of people on a project, you can push your changes to
+	github and your code gets reviewed by other group members, if accepted merge those changes into master
+	branch.
+
